@@ -1,11 +1,12 @@
 # Introduction to models and simulations in life science 71256 #
 
 TA material for course 71256: Introduction to models and simulations in life science.  
-The course was given in 2022, the Hebrew University of Jerusalem, by lecturer Dr. Tamar Freidlander and TA Yoav Ravid. The language of the course is in Hebrew.
 
-This repository is for teaching assistance materials: Tutorials, Homework, and Additional Materials. Lecture notes belong to Tamar.
+The course was given  Autumn 2022, the Hebrew University of Jerusalem, by lecturer Dr. Tamar Freidlander, with TA Yoav Ravid. The language of the course is Hebrew.
 
-The course follows from the book "A Biologist's Guide To Mathematical Models in Ecology and Evolution", with tutorials largely dedicated to practical implementation of these concepts in Python. 
+This repository includes Tutorials, Homework, and Additional Materials made by me (Yoav). Lecture notes belong to Tamar.
+
+The course follows from the book "A Biologist's Guide To Mathematical Models in Ecology and Evolution". The tutorials are mostly dedicated to practical implementation of these concepts in Python. 
 
 ---
 ## חומרים נוספים:
